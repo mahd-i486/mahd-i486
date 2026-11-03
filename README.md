@@ -1,19 +1,8 @@
 # Hi, I'm Mahdi Hematzadeh 👋
 
 ### 🎓 Bachelor of Computer Engineering
-
-Research Interests : **Artificial Intelligence, Computer Vision, Software Engineering, DevOps, and the Mathematics Behind Computers.**
-
-
----
-
-### 🔬 Research Interests
-
-- Artificial Intelligence & Vision Transformers (Particularly at small scales)
-- Computer Vision & Deep Learning
-- AI Optimization for Edge Devices
-- Mathematical Foundations of Computing
-- Computer Architecture & Hardware-Software Interaction
+ 
+Research Interests: **  Computer Vision under Hardware Constraints (Publication coming soon!), Software Engineering, DevOps, Embedded Systems Engineering, and Hardware Architecture. **
 
 
 ### 🛠️ Technologies & Tools
@@ -27,7 +16,6 @@ Research Interests : **Artificial Intelligence, Computer Vision, Software Engine
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 ---
