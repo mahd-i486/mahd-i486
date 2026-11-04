@@ -2,7 +2,9 @@
 
 ### 🎓 Bachelor of Computer Engineering
  
-Research Interests:   Computer Vision under Hardware Constraints (Publication coming soon!), Software Engineering, DevOps, Embedded Systems Engineering, and Hardware Architecture. 
+#### Primary Research Interests:   Computer Vision, Vision Transformers, Computer Vision under Hardware Constraints (Publication coming soon!).
+
+Other Research Interests:   Software Engineering, DevOps, Embedded Systems Engineering, and Hardware Architecture. 
 
 
 ### 🛠️ Technologies & Tools
